@@ -1,0 +1,13 @@
+Smart Contact Manager Backup
+Generated At: 2026-05-11T15:10:17.081097400
+------------------------------------------------------------
+1 | Sarthak Sanjay Salokhe | 7385519586 | sarthaksalokhe@gmail.com | 711 A ward Rajaram chowk timber market kolhapur' | Personal | 
+2 | Shweta Sanjay Salokhe | 9022154859 | shweta@gmail.com | 711 'A' ward rajaram chowk kolhapur | Personal | 
+3 | Atharva kulkarni | 123456789 | ak@gmail.oom | kop | Personal | 
+4 | Sarthak Sanjay Salokhe | 123456789 | ss@gmail.com | kop | Personal | 
+5 | Sarthak Sanjay Salokhe | 123456789 | ss@gmail.com | kop | Personal | 
+7 | sakshi | 78945613234 | sakshi@gmail.com | kop | Personal | 
+8 | sanika | 1234567890 | sarthak@gmail.com | kolhapur | Personal | 
+9 | pradnya | 9876543223 | dharme@gmsil.com | rtdf | Personal | 
+10 | pradnya | 9023665978 | pradnya@gmail.com | kolhaour | Personal | 
+11 | Pradnya | 7894563211 | pradnyadharne@gmail.com | Kolhapur | Personal | 
